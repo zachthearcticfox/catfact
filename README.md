@@ -1,5 +1,5 @@
 # Catfact Generator
-Make the module usable by running `BUILD.sh`
+Make the module usable by running `BUILD.sh` ("You will have to do this manually if you are on Windows without WSL")
 
 Requirements:
 ```bash

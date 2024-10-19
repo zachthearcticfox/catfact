@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Catfact module.
 Generates a random catfact.

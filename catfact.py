@@ -5,7 +5,7 @@ Generates a random catfact.
 Module Version 1.0.0
 
 :Example:
->>> print(get_fact())
+>>> print(get_catfact())
 Example catfact.
 """
 

@@ -1,4 +1,4 @@
-printf "If there is an error, please run 'pip install site'\n"
+printf "If there is a ModuleNotFoundError error, please run 'pip install site'\n"
 site_pkgs=$(python3 -c 'import site; print(site.getsitepackages()[1])')
 printf "site-packages location: $site_pkgs\n"
 

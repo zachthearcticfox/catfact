@@ -1,5 +1,4 @@
-# Catfact Generator
-Make the module usable by running `BUILD.sh` (You will have to do this manually if you are on Windows without WSL or a Non-Debian-based system)
+# Cat fact generator
 
 Requirements:
 ```bash
@@ -11,5 +10,5 @@ Example usage:
 ```python
 >>> import catfact
 >>> print(catfact.get_catfact())
-'A Catfact'
+'The way you treat kittens in the early stages of it's life will render it's personality traits later in life.'
 ```
